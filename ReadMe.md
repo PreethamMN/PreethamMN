@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI, Backend Development, and Full-Stack Projects<br><br>🤝 I’m looking to collaborate on Open Source, AI, and Hackathon Projects<br><br>🫶 I’m looking for help with System Design, Cloud Architecture, and Scalable Backend Systems<br><br>🌱 I’m currently learning FastAPI, AWS, Docker, DevOps, and System Design<br><br>💬 Ask me about Python, C, FastAPI, Git, GitHub, MongoDB, and Backend Development<br><br>⚡ Fun fact: I enjoy turning ideas into real-world projects and I'm always ready for the next hackathon.
+🔭 I’m currently learning about AI, Backend Development, and Full-Stack Projects<br><br>🤝 I’m looking to collaborate and learn on Open Source, AI, and Hackathon Projects<br><br>🫶 I’m looking for help with System Design, Cloud Architecture, and Scalable Backend Systems<br><br>🌱 I’m currently learning FastAPI, AWS, Docker, DevOps, and System Design<br><br>💬 I am focus Python, C, FastAPI, Git, GitHub, MongoDB, and Backend Development<br><br>⚡ Fun fact: I enjoy turning ideas into real-world projects and I'm always ready for the next hackathon.
 
 
 ## 🌐 Socials:
